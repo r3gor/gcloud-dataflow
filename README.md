@@ -87,3 +87,8 @@ with beam.Pipeline() as pipeline:
 ('🍆', 1)
 ('🍅', 12)
 ```
+
+## Referencias
+
+* https://beam.apache.org/documentation/programming-guide/
+* https://cloud.google.com/dataflow/docs/quickstarts/quickstart-python
