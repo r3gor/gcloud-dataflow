@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export GOOGLE_APPLICATION_CREDENTIALS=""
+export DATAFLOW_REGION=""
+export STORAGE_BUCKET=""
+export PROJECT_ID=""
